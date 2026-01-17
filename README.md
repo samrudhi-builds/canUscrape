@@ -205,10 +205,11 @@ Security researchers and developers are welcome to contribute:
 For security inquiries or responsible disclosure: [your-email@example.com]
 
 ---
-
 ## License
 
-MIT License - See LICENSE file for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is open-source under the terms of the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ---
 
