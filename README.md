@@ -1,4 +1,4 @@
-# canUscrape
+# canUscrape - CLI Reconnaissance Tool
 
 > An automated robots.txt auditor for Ethical Hackers, Penetration Testers, and Security Researchers.
 
@@ -202,7 +202,7 @@ Security researchers and developers are welcome to contribute:
 
 ## Contact
 
-For security inquiries or responsible disclosure: [your-email@example.com]
+For security inquiries or responsible disclosure: [samrudhib24@gmail.com]
 
 ---
 ## License
